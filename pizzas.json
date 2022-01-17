@@ -1,0 +1,32 @@
+{
+    "pizzas": [
+        {
+                "name": "Margarita",
+		"ingredients": "Tomato sauce and cheese"
+        },
+	{
+                "name": "Pepperoni",
+		"ingredients": "Tomato sauce and cheese, pepperoni"
+        },
+	{
+                "name": "Burger",
+		"ingredients": "BBQ sauce and cheese, chicken, pickles, caramelized onions"
+        },
+	{
+                "name": "Hawaii",
+		"ingredients": "Tomato sauce and cheese, chicken, pineapple"
+        },
+	{
+                "name": "Carbonara",
+		"ingredients": "Tomato sauce and smoked cheese, chicken, mushrooms"
+        },
+	{
+                "name": "Quattro Formaggi",
+		"ingredients": "Tomato sauce and four tipes of cheese"
+        },
+	{
+                "name": "Tuna",
+		"ingredients": "Tomato sauce and mozzarella, tuna, onions"
+        }
+    ]
+}
