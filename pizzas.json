@@ -2,31 +2,38 @@
     "pizzas": [
         {
                 "name": "Margarita",
-		"ingredients": "Tomato sauce and cheese"
+		"ingredients": "Tomato sauce and cheese",
+		"price": "4"
         },
 	{
                 "name": "Pepperoni",
-		"ingredients": "Tomato sauce and cheese, pepperoni"
+		"ingredients": "Tomato sauce and cheese, pepperoni",
+		"price": "6"
         },
 	{
                 "name": "Burger",
-		"ingredients": "BBQ sauce and cheese, chicken, pickles, caramelized onions"
+		"ingredients": "BBQ sauce and cheese, chicken, pickles, caramelized onions",
+		"price": "6"
         },
 	{
                 "name": "Hawaii",
-		"ingredients": "Tomato sauce and cheese, chicken, pineapple"
+		"ingredients": "Tomato sauce and cheese, chicken, pineapple",
+		"price": "5"
         },
 	{
                 "name": "Carbonara",
-		"ingredients": "Tomato sauce and smoked cheese, chicken, mushrooms"
+		"ingredients": "Tomato sauce and smoked cheese, chicken, mushrooms",
+		"price": "6"
         },
 	{
                 "name": "Quattro Formaggi",
-		"ingredients": "Tomato sauce and four tipes of cheese"
+		"ingredients": "Tomato sauce and four tipes of cheese",
+		"price": "7"
         },
 	{
                 "name": "Tuna",
-		"ingredients": "Tomato sauce and mozzarella, tuna, onions"
+		"ingredients": "Tomato sauce and mozzarella, tuna, onions",
+		"price": "5"
         }
     ]
 }
