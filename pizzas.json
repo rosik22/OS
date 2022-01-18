@@ -1,38 +1,38 @@
 {
     "pizzas": [
         {
-                "name": "Margarita",
-		"ingredients": "Tomato sauce and cheese",
+                "name": "Маргарита",
+		"ingredients": "Доматен сос и кашкавал",
 		"price": "4"
         },
 	{
-                "name": "Pepperoni",
-		"ingredients": "Tomato sauce and cheese, pepperoni",
+                "name": "Пеперони",
+		"ingredients": "Доматен сос, кашкавал и пеперони",
 		"price": "6"
         },
 	{
-                "name": "Burger",
-		"ingredients": "BBQ sauce and cheese, chicken, pickles, caramelized onions",
+                "name": "Бургер",
+		"ingredients": "BBQ сос, кашкавал, пилешко, кисели краставички, карамелизиран лук",
 		"price": "6"
         },
 	{
-                "name": "Hawaii",
-		"ingredients": "Tomato sauce and cheese, chicken, pineapple",
+                "name": "Хавай",
+		"ingredients": "Доматен сос, кашкавал, пилешко, ананас",
 		"price": "5"
         },
 	{
-                "name": "Carbonara",
-		"ingredients": "Tomato sauce and smoked cheese, chicken, mushrooms",
+                "name": "Карбонара",
+		"ingredients": "Доматен сос, топено сирене, пилешко, шунка, сметана",
 		"price": "6"
         },
 	{
-                "name": "Quattro Formaggi",
-		"ingredients": "Tomato sauce and four tipes of cheese",
+                "name": "Четири сирена",
+		"ingredients": "Доматен сос и четири вида сирена",
 		"price": "7"
         },
 	{
-                "name": "Tuna",
-		"ingredients": "Tomato sauce and mozzarella, tuna, onions",
+                "name": "Риба тон",
+		"ingredients": "Доматен сос, моцарела, риба тон, лук",
 		"price": "5"
         }
     ]
