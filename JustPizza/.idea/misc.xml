@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/drawable/my_border.xml" value="0.3310810810810811" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/layout/cart.xml" value="0.3171171171171171" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/layout/cart_pizza_list_item.xml" value="0.3171171171171171" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/layout/pizza_extras.xml" value="0.1565523306948109" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/layout/pizza_extras_activity.xml" value="0.3171171171171171" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/layout/pizza_extras_fragment.xml" value="0.33" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/layout/pizza_list_fragment.xml" value="0.1565523306948109" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/layout/pizza_list_item.xml" value="0.2667572463768116" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/layout/pizzas.xml" value="0.22" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/menu/menu.xml" value="0.3171171171171171" />
+        <entry key="..\:/MINE/OS/JustPizza/app/src/main/res/menu/pizza_list_menu.xml" value="0.3171171171171171" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36666666666666664" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
